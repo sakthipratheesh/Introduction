@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavin Thumar</h1>
+<h1 align="center">Hi 👋, I'm Sakthipratheesh </h1>
 
 - 🔭 I’m currently working on Frontend testing **Java & TestNG with Selenium Webdriver using Page Object Model(POM) and Page Factory.**
 
