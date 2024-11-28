@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sakthipratheeshs@gmail.com**
 
-- 📄 Know about my experiences in [Linkedin](www.linkedin.com/in/sakthipratheesh-s-6843a7151)
+- 📄 Know about my experiences in [Linkedin](https://www.linkedin.com/in/sakthipratheeshs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +33,6 @@
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://ant.apache.org/bindownload.cgi" target="_blank"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/06/ant-logo_PMiBrWC.png" alt="Apache Ant" width="40" height="40"/> </a> 
 <a href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/121px-Karate_software_logo.svg.png" alt="ruby" width="40" height="40"/> </a> 
-<a href="https://katalon.com/" target="_blank"> <img src="https://logosandtypes.com/wp-content/uploads/2020/07/katalon.svg" alt="scala" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 </p>
 
