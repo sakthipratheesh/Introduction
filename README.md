@@ -18,8 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sakthipratheeshs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhavin_LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_._._pratheesh._._._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bhavin_Instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sakthipratheeshs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sakthipratheeshs_LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,8 +27,6 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/09/javascript.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://ant.apache.org/bindownload.cgi" target="_blank"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/06/ant-logo_PMiBrWC.png" alt="Apache Ant" width="40" height="40"/> </a> 
-<a href="https://karatelabs.github.io/karate/karate-core/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Karate_software_logo.svg/121px-Karate_software_logo.svg.png" alt="ruby" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 </p>
 
